@@ -1,5 +1,5 @@
 void call(){
-    stage("CloudFormaiton: Update Stack"){
+    stage("CloudFormation: StackCreate"){
         println "build from the cloudformation library"
     }
 }
